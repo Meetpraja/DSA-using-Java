@@ -1,3 +1,6 @@
+//tacking the middle node from the linkedlist
+//if length is 'even' than our 2nd middle is middle node
+
 package linkedlist_questions;
 
 public class Main {
